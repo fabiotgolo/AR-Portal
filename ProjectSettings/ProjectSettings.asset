@@ -719,10 +719,10 @@ PlayerSettings:
   facebookXfbml: 0
   facebookFrictionlessRequests: 1
   apiCompatibilityLevel: 6
-  cloudProjectId: 0793eadc-851d-4d2b-b02d-64d7d8d44480
+  cloudProjectId: 
   framebufferDepthMemorylessMode: 0
-  projectName: AR Portal (3)
-  organizationId: tevfikufuk
+  projectName: 
+  organizationId: 
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0

@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.37311992, g: 0.38074034, b: 0.35872713, a: 1}
+  m_IndirectSpecularColor: {r: 0.37312, g: 0.38074034, b: 0.35872716, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -316,60 +316,77 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1001 &1408515699707029337
+--- !u!1001 &5378941245731469191
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 2072173381, guid: e004547afe301294f94f99ad519231b7, type: 3}
-      propertyPath: m_Name
-      value: PortalWithRoom
-      objectReference: {fileID: 0}
-    - target: {fileID: 2072173382, guid: e004547afe301294f94f99ad519231b7, type: 3}
+    - target: {fileID: 5378941245929553973, guid: e004547afe301294f94f99ad519231b7,
+        type: 3}
+      propertyPath: m_Camera
+      value: 
+      objectReference: {fileID: 534669904}
+    - target: {fileID: 6424907140319579032, guid: e004547afe301294f94f99ad519231b7,
+        type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 2072173382, guid: e004547afe301294f94f99ad519231b7, type: 3}
+    - target: {fileID: 6424907140319579032, guid: e004547afe301294f94f99ad519231b7,
+        type: 3}
       propertyPath: m_LocalPosition.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 2072173382, guid: e004547afe301294f94f99ad519231b7, type: 3}
+    - target: {fileID: 6424907140319579032, guid: e004547afe301294f94f99ad519231b7,
+        type: 3}
       propertyPath: m_LocalPosition.z
       value: 3
       objectReference: {fileID: 0}
-    - target: {fileID: 2072173382, guid: e004547afe301294f94f99ad519231b7, type: 3}
+    - target: {fileID: 6424907140319579032, guid: e004547afe301294f94f99ad519231b7,
+        type: 3}
       propertyPath: m_LocalRotation.x
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 2072173382, guid: e004547afe301294f94f99ad519231b7, type: 3}
+    - target: {fileID: 6424907140319579032, guid: e004547afe301294f94f99ad519231b7,
+        type: 3}
       propertyPath: m_LocalRotation.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 2072173382, guid: e004547afe301294f94f99ad519231b7, type: 3}
+    - target: {fileID: 6424907140319579032, guid: e004547afe301294f94f99ad519231b7,
+        type: 3}
       propertyPath: m_LocalRotation.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 2072173382, guid: e004547afe301294f94f99ad519231b7, type: 3}
+    - target: {fileID: 6424907140319579032, guid: e004547afe301294f94f99ad519231b7,
+        type: 3}
       propertyPath: m_LocalRotation.w
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 2072173382, guid: e004547afe301294f94f99ad519231b7, type: 3}
+    - target: {fileID: 6424907140319579032, guid: e004547afe301294f94f99ad519231b7,
+        type: 3}
       propertyPath: m_RootOrder
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 2072173382, guid: e004547afe301294f94f99ad519231b7, type: 3}
+    - target: {fileID: 6424907140319579032, guid: e004547afe301294f94f99ad519231b7,
+        type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 2072173382, guid: e004547afe301294f94f99ad519231b7, type: 3}
+    - target: {fileID: 6424907140319579032, guid: e004547afe301294f94f99ad519231b7,
+        type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 2072173382, guid: e004547afe301294f94f99ad519231b7, type: 3}
+    - target: {fileID: 6424907140319579032, guid: e004547afe301294f94f99ad519231b7,
+        type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6424907140319579035, guid: e004547afe301294f94f99ad519231b7,
+        type: 3}
+      propertyPath: m_Name
+      value: PortalWithRoom
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e004547afe301294f94f99ad519231b7, type: 3}
