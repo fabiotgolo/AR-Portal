@@ -1,4 +1,4 @@
-#Tue Jun 09 18:22:35 BRT 2020
+#Tue Jun 09 18:41:49 BRT 2020
 base.0=/Users/fabiogarcia/AR-Portal/Temp/gradleOut/build/intermediates/transforms/dexMerger/release/0
 path.0=classes.dex
 renamed.0=classes.dex
